@@ -37,4 +37,4 @@ Politika degisiklikleri
 Bu gizlilik politikasi zaman zaman guncellenebilir. Guncel surum bu sayfada yayinlanir ve "Son guncelleme" tarihi degistirilir.
 
 Iletisim
-Bu gizlilik politikasi hakkinda sorulariniz icin bizimle su e-posta adresinden iletisime gecebilirsiniz: destek@example.com
+Bu gizlilik politikasi hakkinda sorulariniz icin bizimle su e-posta adresinden iletisime gecebilirsiniz: kdapps2@gmail.com
